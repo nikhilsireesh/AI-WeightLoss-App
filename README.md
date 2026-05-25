@@ -68,7 +68,7 @@ The Navbar renders different links depending on auth state (`isAuth` prop). On l
 
 ## Backend API
 
-Base URL (live): `https://weightlossapp-production.up.railway.app`
+Base URL (live): `https://weightloss-app-frontend.onrender.com`
 
 All routes marked **Protected** require: `Authorization: Bearer <token>`
 
